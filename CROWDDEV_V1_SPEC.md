@@ -175,6 +175,38 @@ Admins can:
 
 V1 does not include a full project-management workspace. Admin management is limited to the project record, lead, participant list, status, and decision history.
 
+### 3.7 Visual design direction
+
+CrowdDev uses a bold, friendly, creator-first visual style inspired by indie storefronts and editorial product discovery. Gumroad is a reference for its approachable creator-led presentation and discovery experience, not a layout to copy.
+
+**Visual principles:**
+
+- Warm off-white or paper-like backgrounds, with dark ink typography.
+- Expressive headings, clear hierarchy, and generous but purposeful spacing.
+- A restrained palette of vivid pink, yellow, mint, and other project-specific accent colors.
+- Crisp borders, simple geometric shapes, and subtle offset shadows for personality.
+- Distinctive visual covers for ideas and projects, while keeping cards readable and consistent.
+- Clear, prominent actions for exploring ideas, proposing an idea, suggesting features, and voting.
+- Mobile-first responsiveness and accessible contrast, focus states, and form controls.
+
+**Experience principles:**
+
+- The interface should feel like a place to discover and support ideas, not a generic SaaS dashboard.
+- Give ideas and their creators visual identity without making the interface noisy or cluttered.
+- The dedicated idea page is the center of the experience; discovery cards should lead naturally to it.
+- Avoid permanent sidebars, decorative dashboards, unnecessary metrics, excessive gradients, and animation that do not improve the user journey.
+- Do not display fabricated community metrics or present sample content as real activity.
+- Preserve the established product scope. Visual redesigns must not introduce new features.
+
+**Design acceptance criteria:**
+
+- The homepage explains CrowdDev's purpose within seconds.
+- The discovery feed makes proposals visually distinct and easy to scan.
+- The dedicated idea page clearly separates the vision, official features, community suggestions, and voting state.
+- Forms and actions use consistent visual patterns.
+- The primary flows remain usable on mobile and desktop.
+- Future screens follow the same visual system rather than introducing a new design direction.
+
 ---
 
 ## 4. Lifecycle and decision rules
